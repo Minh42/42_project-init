@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Entrez votre path :" 
+read -r path
+
+ls -lS $path
